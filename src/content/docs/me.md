@@ -3,9 +3,9 @@ title: Who is Sarah Gerrard? 💁
 description: A page that explains who Sarah Gerrard is and how she got into software development.
 ---
 
-Welcome to my About Me page!
+Here you can learn all about Sarah!
 
-I'm Sarah, a dynamic full stack software developer fueled by a love for open source development and a deep love for crafting exceptional digital experiences. With a talent for translating complex topics into easily digestible content, I am passionate about effectively communicating intricate concepts to both technical and non-technical audiences.
+I am a dynamic full stack software developer fueled by a love for open source development and a deep love for crafting exceptional digital experiences. With a talent for translating complex topics into easily digestible content, I am passionate about effectively communicating intricate concepts to both technical and non-technical audiences.
 
 Collaboration and effective communication are at the core of my work philosophy. I thrive in team environments, seamlessly collaborating with colleagues, clients, and stakeholders to achieve shared goals. By fostering a positive and supportive work culture, I believe we can collectively create remarkable projects and software solutions that surpass expectations.
 

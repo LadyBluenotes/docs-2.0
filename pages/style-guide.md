@@ -23,7 +23,7 @@ Establishing a consistent voice and tone across all my communications and conten
 
 Here are some strategies to achieve this goal:
 
-1. **Demystify Complexity**: Encourage the use of straightforward language and explain intricate concepts in uncomplicated terms to avoid unnecessary barriers. For instance, instead of saying, "Utilize our proprietary algorithm," say, "Use our unique computer program."
+1. **Demystify Complexity**: Encourage the use of plain language and explain intricate concepts in uncomplicated terms to avoid unnecessary barriers. For instance, instead of saying, "Utilize our proprietary algorithm," say, "Use our unique computer program."
 
 2. **Active Voice**: Favor the use of an active voice over passive. For example, say, "I created the website," instead of, "The website was created by me."
 

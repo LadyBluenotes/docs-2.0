@@ -25,20 +25,20 @@ How to install and run the application:
 
 1. Clone the repository from GitHub.
 ```bash copy
-        git clone https://github.com/LadyBluenotes/task-it
+git clone https://github.com/LadyBluenotes/task-it
 ```
 
 2. Install the dependencies
 
 ```bash copy
-        npm install
+npm install
 ```
 
 3. Copy the contents of the `.env.example` file into a new file called `.env` and add the appropriate values.
 
 4. Run the application.
 ```bash copy
-        npm run start
+npm run start
 ```
 
 ## II. About

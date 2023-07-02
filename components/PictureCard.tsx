@@ -14,7 +14,8 @@ export default function CardOSS({
   return (
     <Card css={{ m: "10px auto", h: height, w: width }}>
       <Card.Body css={{ p: 0 }}>
-        <Card.Image src={src} layout="fill" alt={alt} objectFit="cover" />
+        <Card.Image src={src} alt={alt} objectFit="cover" css={{
+        }} />
       </Card.Body>
     </Card>
   );

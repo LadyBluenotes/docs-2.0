@@ -1,0 +1,98 @@
+---
+title: Docs Site 2.0
+description: A breakdown of how I built this website and what I learned in the process.
+---
+
+import Hero from '../../../components/Hero.tsx'
+
+# Docs Site 2.0
+
+<Hero src="/Docs-2.0.png" alt="screenshot of my second documentation site" repo="https://github.com/LadyBluenotes/docs-2.0" href="https://docs.sarahgerrard.me/" />
+
+This second version of my documentation site utilizes MDX, to make use of a lightweight approach that could be seamlessly integrated into README files. Its purpose is to serve as an expansion of my [previous site](/react/docs-1.0/), building upon the foundation of it and providing more comprehensive information. By embracing MDX, the site offers increased versatility and extends its usability beyond traditional documentation boundaries.
+
+## I. Getting started
+
+### Prerequisites
+
+In addition to an internet browser and IDE, he following must be installed on your machine:
+
+* [NodeJS](https://nodejs.org/en)
+
+### Installation
+
+How to install and run the application.
+
+1. Clone the repository from GitHub.
+```bash copy
+git clone https://github.com/LadyBluenotes/docs-2.0
+```
+
+3. Install Node packages
+```bash copy
+npm install
+```
+
+3. Start the application
+```bash copy
+npm run dev
+```
+
+## II. About
+
+### Built with
+* [Markdown](https://www.markdownguide.org/) & [MDX](https://mdxjs.com/) 
+* [Nextra](https://nextra.site/) framework built on top of [Next.js](https://nextjs.org/)
+* [NextUI](https://nextui.org/)
+* [TypeScript](https://www.typescriptlang.org/) & [JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
+
+This site was built using Nextra. In an effort to avoid complexity, Nextra provided a template for documentation that better suited the needs I had for my docs site. Nextra helped to simplify the development process by enabling me to use familiar tools and frameworks, but incorporating Markdown and MDX to avoid bogging down the site as much as the last.
+
+By using Nextra, I was able to leverage the provided template and customize components I wanted to include. Specifically, I created JavaScript and TypeScript components from NextUI which provided buttons and cards to showcase content in other ways.
+
+## III. Motivation
+
+Discovering Nextra served as a motivation for revamping my documentation, as it offered the ideal environment for my site without the burden of building everything from scratch. Despite its opinionated nature, Nextra's design resonated well with my requirements at this stage. Notably, it introduced search functionality, a valuable addition that was absent from my previous site. Moreover, Nextra's capability to generate a streamlined navigation system addressed the shortcomings of my previous site, enabling me to enhance the organization of content, facilitating seamless navigation for users.
+
+While I found it valuable to build my first site from scratch, I was struggling with trying to find a way to promote the Clean Code principles I resonated with. There was a lot of code written and, when I had to make a change to something like layout, I would have to manually make the change on every page. I was also unable to figure out how to create cohesiveness with the site in a way that didn't require a massive amount of code. Thus, using Nextra, solved these concerns.
+
+The overhaul of my documentation site also prompted me to use its information and extract out content that better suited my primary site. This approach ensures a more refined and purposeful documentation structure, allowing users to access relevant information efficiently. By separating content based on its suitability, I can streamline both sites and ensure that each serves its intended purpose optimally.
+
+To learn more about my for creating a documentation site, you can go [here](/site/) or you can check out my original sites'.
+
+## IV. Key takeaways
+
+### Discoveries and reflections
+
+Building on my previous site, I was able to further hone my documentation skills through:
+1. **Visual elements:** This was an element my previous site lacked in. To enhance the readability and comprehension of my documentation, I incorporated more visual elements. This included using screenshots, images, or code snippets to illustrate the style of the site, or steps in each project.
+
+### Technical growth
+
+#### Nextra
+
+Working with Nextra introduced me to working with JavaScript, TypeScript and Markdown simultaneously. I learned how to leverage the benefits of each, making sure to work to their strengths.
+
+#### Documentation best practices
+
+In building another documentation site, I further dove into the world of documentation best practices. I improved how I present technical information and focused on providing appropriate information. This experience deepened my understanding of effective documentation techniques, allowing me to communicate complex concepts effectively.
+
+#### Markdown and MDX
+
+While I have previous experience with many web development tools, Nextra uses Markdown and Multidementional Expressions (MDX). MDX, which is a powerful tool that allows me to write JavaScript XML (JSX) within Markdown files, showed me how to combine the simplicity and readability of Markdown with the ability to incorporate interactive and dynamic components using JSX syntax.
+
+## V. Acknowledgements
+
+Outside of Nextra documentation, [Sarah Rainsberger](https://twitter.com/sarah11918), the phenomenal documentarian, supplied me with a lot of advice in how to make this site good for documentation.
+
+## VI. Additional Information
+
+This site will continue to be a work in progress as information will continue to be included, features implemented, and issues present.
+
+### Known Issues
+
+Can be found [here](https://github.com/LadyBluenotes/docs-2.0/issues).
+
+### Feature Improvements
+
+- None at this time.
